@@ -58,3 +58,5 @@ Whether you’re testing your knowledge, improving recall, or just looking for a
 ![image alt](https://github.com/karthiksrb/Quiz_Flow_with_Gamification/blob/main/Screenshot%202025-02-02%20185601.png?raw=true)
 4:
 ![image alt](https://github.com/karthiksrb/Quiz_Flow_with_Gamification/blob/main/Screenshot%202025-02-02%20185613.png?raw=true)
+5:
+![image alt](https://github.com/karthiksrb/Quiz_Flow_with_Gamification/blob/main/Screenshot%202025-02-02%20193407.png?raw=true)
