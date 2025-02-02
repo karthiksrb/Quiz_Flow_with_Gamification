@@ -48,6 +48,7 @@ The logout button allows users to exit the session, resetting their credentials 
 ✔️ Hover & Click Effects – Buttons and answer options respond dynamically to user interactions.
 ✔️ Dark Mode Ready – Easily customizable theme for a more comfortable viewing experience.
 
+
 🔥 Why Use This Quiz App?
 Whether you’re testing your knowledge, improving recall, or just looking for a fun challenge, this Gamified Quiz App offers an engaging and effortless way to do so. With no external dependencies, it runs directly in your browser, ensuring quick access and an enjoyable user experience.
 
