@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    animation: gradientBG 6s infinite alternate;
+}
+
+@keyframes gradientBG {
+    0% { background: linear-gradient(135deg, #1e3c72, #2a5298); }
+    100% { background: linear-gradient(135deg, #142850, #27496d); }
+}
+
+.container {
+    max-width: 450px;
+    width: 90%;
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.4);
+    text-align: center;
+    transition: all 0.3s ease-in-out;
+}
+
+h1, h2 {
+    color: #222;
+    font-weight: 600;
+}
+
+input[type="text"], input[type="password"] {
+    width: 95%;
+    padding: 12px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 8px;
+    background: #f1f1f1;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+input[type="text"]:focus, input[type="password"]:focus {
+    background: #e0e0e0;
+    outline: none;
+}
+
+.btn {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    background: linear-gradient(135deg, #0044cc, #9900ff);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    transition: all 0.3s ease-in-out;
+    position: relative;
+    overflow: hidden;
+}
+
+.btn:hover {
+    background: linear-gradient(135deg, #003399, #7a00cc);
+    box-shadow: 0 0 10px #9900ff, 0 0 20px #0044cc;
+}
+
+.option {
+    display: flex;
+    align-items: center;
+    background: #f8f8f8;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 8px 0;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.option:hover {
+    background: #e3e3e3;
+}
+
+.option input[type="radio"] {
+    margin-right: 12px;
+    transform: scale(1.3);
+}
+
+.progress {
+    width: 100%;
+    background: #ddd;
+    border-radius: 5px;
+    height: 12px;
+    margin: 20px 0;
+    overflow: hidden;
+    position: relative;
+}
+
+.progress-bar {
+    width: 0%;
+    height: 100%;
+    background: linear-gradient(135deg, #0044cc, #9900ff);
+    transition: width 0.5s ease-in-out;
+    box-shadow: 0 0 5px #9900ff;
+}
+
+.hidden {
+    display: none;
+}
