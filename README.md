@@ -1,7 +1,3 @@
-# Quiz_Flow_with_Gamification
-🎮 Gamified Quiz App – Fun &amp; Interactive Learning!  Test your knowledge with multiple-choice questions in this engaging quiz app. Register, log in, and track progress with a dynamic progress bar. Get instant feedback, view your final score, and replay anytime. Fully responsive and works seamlessly on all devices! 🚀
-
-
 🎮 Gamified Quiz App 🏆
 🚀 Welcome to the Gamified Quiz App! 🚀
 A dynamic and interactive quiz platform designed to test your knowledge in a fun and engaging way. With an intuitive UI, smooth animations, and a progress tracker, this quiz app ensures an enjoyable learning experience!
@@ -51,3 +47,14 @@ The logout button allows users to exit the session, resetting their credentials 
 Whether you’re testing your knowledge, improving recall, or just looking for a fun challenge, this Gamified Quiz App offers an engaging and effortless way to do so. With no external dependencies, it runs directly in your browser, ensuring quick access and an enjoyable user experience.
 
 🎯 Start your quiz journey today and aim for a perfect score! 🚀
+
+
+**Screenshots : **
+1:
+![image alt](https://github.com/karthiksrb/Quiz_Flow_with_Gamification/blob/main/Screenshot%202025-02-02%20185455.png?raw=true)
+2:
+![image alt](https://github.com/karthiksrb/Quiz_Flow_with_Gamification/blob/main/Screenshot%202025-02-02%20185525.png?raw=true)
+3:
+![image alt](https://github.com/karthiksrb/Quiz_Flow_with_Gamification/blob/main/Screenshot%202025-02-02%20185601.png?raw=true)
+4:
+![image alt](https://github.com/karthiksrb/Quiz_Flow_with_Gamification/blob/main/Screenshot%202025-02-02%20185613.png?raw=true)
